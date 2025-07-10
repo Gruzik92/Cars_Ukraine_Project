@@ -244,5 +244,5 @@ WHERE "PERSON" = 'P'
 
 ---
 
-✍️ Автор: [Ihor Hrudzynskyi]\
+✍️ Автор: [Ihor Hrudzynskyi]
 
